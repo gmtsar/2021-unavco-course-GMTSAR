@@ -8,7 +8,7 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/),
 [Ekaterina Tymofyeyeva](https://igppweb.ucsd.edu/~etymofyeyeva/),
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
-[Kathryn Materna](https://scholar.google.com/citations?user=sBJoFrkAAAAJ&hl=en)
+[Kathryn Materna](https://scholar.google.com/citations?user=sBJoFrkAAAAJ&hl=en),
 [Eric Lindsey](https://www.planetmechanic.net/about-me)
 
 ### Assisted by
