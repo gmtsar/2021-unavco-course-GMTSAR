@@ -18,7 +18,7 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [Donna Charlevoix](https://connect.unavco.org/display/per968358)
 
 ### Installation:
-Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki for installation.
+Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki/GMTSAR-Wiki-Page for installation.
 
 ### Need help?
 Please ask your questions by opening an Issue insde this short course repository. You'll need a github account to do this. You could also write emails to your assigned instructor for help, but describing in details of the problems you met and keeping the thread readable will also help others. In cases you have a question during the lecture. We'll have instructors babysitting the chat window, and answer them. If they feel that the questions are important and need to be addressed by the lecturing instructor, they will interupt and ask that question.  
