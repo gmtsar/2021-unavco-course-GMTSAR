@@ -50,7 +50,7 @@ Session 2 - 2 hours
 | 06    | Brief Introduction to InSAR | Cheetah |
 | 07    | Applications – volcanoes | Beaver |
 | 08    | Applications – earthquakes and postseismic | Kang |
-| 09    | Applications – hydrology and crustal fluids | Tiger |
+| 09    | Applications – hydrology and crustal fluids | Kathryn |
 | 10    | Applications – interseismic and atmosphere | Monkey |
 | 11    | SAR data access – UNAVCO | Hawk |
 | 12    | Sentinel data access demo and ASF | Whale |
