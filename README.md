@@ -10,7 +10,8 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
 [Kathryn Materna](https://scholar.google.com/citations?user=sBJoFrkAAAAJ&hl=en),
 [Eric Lindsey](https://www.planetmechanic.net/about-me),
-[Katherine Guns](https://igpp.ucsd.edu/person/kguns)
+[Katherine Guns](https://igpp.ucsd.edu/person/kguns),
+[Matt Wei](https://weilaburi.wixsite.com/home)
 
 ### Assisted by
 [Rebecca Bendick](https://www.unavco.org/highlights/2020/unavco-president.html),
