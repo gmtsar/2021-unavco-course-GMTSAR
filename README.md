@@ -71,7 +71,7 @@ Session 2 – 1.5 hours
 |-----------|--------------|--------------|
 | 17    | Phase filtering and unwrapping theory | Cheetah |
 | 18    | Phase unwrapping – application – snaphu | Beaver |
-| 19    | ScanSAR and TOPS | Lion |
+| 19    | ScanSAR and TOPS | Xu |
 | 20    | Batch processing | Tiger |
 #### Breakout session continue with assigned groups
 Breakout session Group #1 with Sandwell
@@ -82,5 +82,5 @@ Breakout session Group #1 with Sandwell
 Breakout session Group #2 with Xu
 | **Date** | **Time** | **Link** | **Content** |
 |-----------|--------------|--------------|--------------|
-| 07/02/21  | 10AM Central | http://zoom.us/.... ||Installation of GMTSAR|
+| 06/29/21  | 7PM CST | http://zoom.us/.... |GMTSAR Introduction|
 
