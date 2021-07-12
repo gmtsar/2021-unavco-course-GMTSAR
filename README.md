@@ -52,11 +52,11 @@ Session 2 - 2 hours
 | 09    | Applications – hydrology and crustal fluids | Materna |
 | 10    | Applications – interseismic | Lindsey |
 | 11    | Atmosphere and Ionosphere Artifacts | Wang |
-| 12    | SAR data access – | Wei |
+| 12    | SAR data access | Wei |
 #### Breakout session continue with assigned groups
 
 #### DAY-2 – July 23
-Session 1 – 1.5 hours
+Session 3 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 13    | 2-pass processing – tour of data files | Materna |
@@ -64,7 +64,7 @@ Session 1 – 1.5 hours
 | 15    | SAR Image formation – Appendix B | Xu |
 | 16    | InSAR Theory – Appendix C | Lindsey |
 
-Session 2 – 1.5 hours
+Session 4 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 17    | Phase filtering and unwrapping theory | Mellors |
