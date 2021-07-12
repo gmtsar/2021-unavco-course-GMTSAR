@@ -29,7 +29,7 @@ https://join.slack.com/t/gmtsar/XXXXXXXX
 ### Course Materials:
 All course materials including slides, notes and video records will be uploaded to a shared Google Drive https://drive.google.com/drive/u/2/folders/XXXXXXXX
 
-### Time table
+### Plenary Sessions
 July 22-23 (Thursday - Friday), 2021, 10AM PDT - 1PM PDT (plus continuted breakout sessions)
 #### DAY-1 -  July 22:
 Session 1 - 45 minutes
