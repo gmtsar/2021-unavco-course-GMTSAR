@@ -41,7 +41,6 @@ Session 1 - 45 minutes
 | 04    | GMT Introduction and Student Topo Maps | Guns |
 | 05    | On-line Photo for 2021 | Weber |
 
-On-line photo for 2020
 
 Session 2 - 2 hours
 | **Number** | **Theme** | **Instructor** |
