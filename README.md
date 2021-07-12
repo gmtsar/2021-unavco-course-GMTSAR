@@ -50,9 +50,9 @@ Session 2 - 2 hours
 | 07    | Applications – volcanoes | Mellors |
 | 08    | Applications – earthquakes and postseismic | Wang |
 | 09    | Applications – hydrology and crustal fluids | Materna |
-| 10    | Applications – interseismic and atmosphere | Lindsey |
+| 10    | Applications – interseismic | Lindsey |
 | 11    | Atmosphere and Ionosphere Artifacts | Wang |
-| 11    | SAR data access – | Wei |
+| 12    | SAR data access – | Wei |
 #### Breakout session continue with assigned groups
 
 #### DAY-2 – July 23
@@ -72,13 +72,5 @@ Session 2 – 1.5 hours
 | 19    | ScanSAR and TOPS | Xu |
 | 20    | Batch processing | Lindsey or Tymofyeyeva |
 #### Breakout session continue with assigned groups
-Breakout session Group #1 with Sandwell
-| **Date** | **Time** | **Link** | **Content** |
-|-----------|--------------|--------------|--------------|
-| 07/01/21  | 10AM PDT | http://zoom.us/.... |Installation of GMTSAR|
 
-Breakout session Group #2 with Xu
-| **Date** | **Time** | **Link** | **Content** |
-|-----------|--------------|--------------|--------------|
-| 06/29/21  | 7PM CST | http://zoom.us/.... |GMTSAR Introduction|
 
