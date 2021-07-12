@@ -5,7 +5,6 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [David Sandwell](https://topex.ucsd.edu/sandwell/),
 [Xiaohua Xu](https://scholar.google.com/citations?user=ME1EfdsAAAAJ&hl=en),
 [Rob Mellors](https://people.llnl.gov/mellors1),
-[Paul Wessel](http://www.soest.hawaii.edu/wessel/),
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
 [Kathryn Materna](https://scholar.google.com/citations?user=sBJoFrkAAAAJ&hl=en),
 [Eric Lindsey](https://www.planetmechanic.net/about-me),
@@ -37,9 +36,10 @@ Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 01    | Introduction/agenda/photos | Sandwell  |
-| 02    | UNAVCO and short courses | Bendick  |
+| 02    | UNAVCO and short courses | Bendick |
 | 03    | Homework, RS, SAR, and InSAR | Sandwell |
 | 04    | GMT Introduction and Student Topo Maps | Guns |
+| 05    | On-line Photo for 2021 | Weber |
 
 On-line photo for 2020
 
@@ -51,6 +51,7 @@ Session 2 - 2 hours
 | 08    | Applications – earthquakes and postseismic | Wang |
 | 09    | Applications – hydrology and crustal fluids | Materna |
 | 10    | Applications – interseismic and atmosphere | Lindsey |
+| 11    | Atmosphere and Ionosphere Artifacts | Wang |
 | 11    | SAR data access – | Wei |
 #### Breakout session continue with assigned groups
 
@@ -58,18 +59,18 @@ Session 2 - 2 hours
 Session 1 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 13    | 2-pass processing – tour of data files | Cheetah |
-| 14    | SAR Theory and orbits– Appendix A | Beaver |
-| 15    | SAR Image formation – Appendix B | Lion |
-| 16    | InSAR Theory – Appendix C | Tiger |
+| 13    | 2-pass processing – tour of data files | Materna |
+| 14    | SAR Theory and orbits– Appendix A | Sandwell |
+| 15    | SAR Image formation – Appendix B | Xu |
+| 16    | InSAR Theory – Appendix C | Lindsey |
 
 Session 2 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 17    | Phase filtering and unwrapping theory | Cheetah |
-| 18    | Phase unwrapping – application – snaphu | Beaver |
+| 17    | Phase filtering and unwrapping theory | Mellors |
+| 18    | Phase unwrapping – application – snaphu | Wei |
 | 19    | ScanSAR and TOPS | Xu |
-| 20    | Batch processing | Tiger |
+| 20    | Batch processing | Lindsey or Tymofyeyeva |
 #### Breakout session continue with assigned groups
 Breakout session Group #1 with Sandwell
 | **Date** | **Time** | **Link** | **Content** |
