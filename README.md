@@ -33,27 +33,25 @@ All course materials including slides, notes and video records will be uploaded 
 ### Time table
 July 22-23 (Wednesday-Thursday), 2021, 10AM PDT - 1PM PDT (plus continuted breakout sessions)
 #### DAY-1 -  July 22:
-Session 1 - 1 hour
+Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 01    | Introduction/agenda/photos | Sandwell  |
-| 02    | UNAVCO and short courses | Cheetah  |
-| 03    | Homework, RS, SAR, and InSAR | Beaver |
-| 04    | GMT Introduction | Wessel |
-| 05    | Student topo maps | Wessel |
+| 02    | UNAVCO and short courses | Bendick  |
+| 03    | Homework, RS, SAR, and InSAR | Sandwell |
+| 04    | GMT Introduction and Student Topo Maps | Guns |
 
 On-line photo for 2020
 
 Session 2 - 2 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 06    | Brief Introduction to InSAR | Cheetah |
-| 07    | Applications – volcanoes | Beaver |
-| 08    | Applications – earthquakes and postseismic | Kang |
-| 09    | Applications – hydrology and crustal fluids | Kathryn |
-| 10    | Applications – interseismic and atmosphere | Monkey |
-| 11    | SAR data access – UNAVCO | Hawk |
-| 12    | Sentinel data access demo and ASF | Whale |
+| 06    | Brief Introduction to InSAR | Xu |
+| 07    | Applications – volcanoes | Mellors |
+| 08    | Applications – earthquakes and postseismic | Wang |
+| 09    | Applications – hydrology and crustal fluids | Materna |
+| 10    | Applications – interseismic and atmosphere | Lindsey |
+| 11    | SAR data access – | Wei |
 #### Breakout session continue with assigned groups
 
 #### DAY-2 – July 23
