@@ -3,13 +3,13 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 
 ### Instructors:
 [David Sandwell](https://topex.ucsd.edu/sandwell/),
-[Xiaohua Xu](https://scholar.google.com/citations?user=ME1EfdsAAAAJ&hl=en),
+[Katherine Guns](https://igpp.ucsd.edu/person/kguns),
+[Kathryn Materna](https://scholar.google.com/citations?user=sBJoFrkAAAAJ&hl=en),
 [Rob Mellors](https://people.llnl.gov/mellors1),
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
-[Kathryn Materna](https://scholar.google.com/citations?user=sBJoFrkAAAAJ&hl=en),
 [Eric Lindsey](https://www.planetmechanic.net/about-me),
-[Katherine Guns](https://igpp.ucsd.edu/person/kguns),
-[Matt Wei](https://weilaburi.wixsite.com/home)
+[Matt Wei](https://weilaburi.wixsite.com/home),
+[Xiaohua Xu](https://scholar.google.com/citations?user=ME1EfdsAAAAJ&hl=en)
 
 ### Assisted by
 [Rebecca Bendick](https://www.unavco.org/highlights/2020/unavco-president.html),
