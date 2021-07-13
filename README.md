@@ -24,7 +24,7 @@ Please ask your questions by opening an Issue insde this short course repository
 
 ### Slack chat room
 While the lectures go on, we will be holding a Slack chat room where you could pose questions and get answers in real-time.
-https://join.slack.com/t/gmtsar/XXXXXXXX
+https://join.slack.com/t/21-gmtsarcourse/shared_invite/zt-s1xshucn-4hWJZ7a3MD5ybKQapsLG0A
 
 ### Course Materials:
 All course materials including slides, notes and video records will be uploaded to a shared Google Drive https://drive.google.com/drive/u/2/folders/XXXXXXXX
