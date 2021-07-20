@@ -27,7 +27,7 @@ While the lectures go on, we will be holding a Slack chat room where you could p
 https://join.slack.com/t/21-gmtsarcourse/shared_invite/zt-s1xshucn-4hWJZ7a3MD5ybKQapsLG0A
 
 ### Course Materials:
-All course materials including slides, notes and video records will be uploaded to a shared Google Drive https://drive.google.com/drive/u/2/folders/XXXXXXXX
+All course materials including slides, notes and video records will be uploaded to a shared Google Drive https://drive.google.com/drive/folders/1SSS3TDKbsTjzd0Ydg7tI6HQzCx6mL39b?usp=sharing
 
 ### Plenary Sessions
 July 22-23 (Thursday - Friday), 2021, 10AM PDT - 1PM PDT (plus continuted breakout sessions)
